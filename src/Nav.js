@@ -22,7 +22,7 @@ const Nav = () => {
         <div className={`nav ${show && "nav_black"}`}>
             <img
                className="nav_logo"
-               src="https://spng.pngfind.com/pngs/s/55-550966_netflix-worldvectorlogo-netflix-white-logo-png-transparent-png.png"
+               src="https://tse2.mm.bing.net/th?id=OIP.AC0iUF7KyK0iqL7HZ2JzcQHaD5&pid=Api&P=0&w=309&h=163"
                alt="Netflx logo"
             />
 
